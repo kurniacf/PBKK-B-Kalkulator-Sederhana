@@ -1,0 +1,15 @@
+E:\Programming\PBKK\TugasScientificCalculator\obj\Debug\net7.0-windows\TugasScientificCalculator.csproj.AssemblyReference.cache
+E:\Programming\PBKK\TugasScientificCalculator\obj\Debug\net7.0-windows\TugasScientificCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\PBKK\TugasScientificCalculator\obj\Debug\net7.0-windows\TugasScientificCalculator.AssemblyInfoInputs.cache
+E:\Programming\PBKK\TugasScientificCalculator\obj\Debug\net7.0-windows\TugasScientificCalculator.AssemblyInfo.cs
+E:\Programming\PBKK\TugasScientificCalculator\obj\Debug\net7.0-windows\TugasScientificCalculator.csproj.CoreCompileInputs.cache
+E:\Programming\PBKK\TugasScientificCalculator\bin\Debug\net7.0-windows\TugasScientificCalculator.exe
+E:\Programming\PBKK\TugasScientificCalculator\bin\Debug\net7.0-windows\TugasScientificCalculator.deps.json
+E:\Programming\PBKK\TugasScientificCalculator\bin\Debug\net7.0-windows\TugasScientificCalculator.runtimeconfig.json
+E:\Programming\PBKK\TugasScientificCalculator\bin\Debug\net7.0-windows\TugasScientificCalculator.dll
+E:\Programming\PBKK\TugasScientificCalculator\bin\Debug\net7.0-windows\TugasScientificCalculator.pdb
+E:\Programming\PBKK\TugasScientificCalculator\obj\Debug\net7.0-windows\TugasScientificCalculator.dll
+E:\Programming\PBKK\TugasScientificCalculator\obj\Debug\net7.0-windows\refint\TugasScientificCalculator.dll
+E:\Programming\PBKK\TugasScientificCalculator\obj\Debug\net7.0-windows\TugasScientificCalculator.pdb
+E:\Programming\PBKK\TugasScientificCalculator\obj\Debug\net7.0-windows\TugasScientificCalculator.genruntimeconfig.cache
+E:\Programming\PBKK\TugasScientificCalculator\obj\Debug\net7.0-windows\ref\TugasScientificCalculator.dll
